@@ -21,7 +21,7 @@ That is why I wanted to create a fully local converter with no pop-up ads or dat
 ## How to Use
 
 1. Download the .zip
-   - Go to the [**Releases**](link) section and download ytmp3.zip
+   - Go to the [**Releases**](https://github.com/Bruno325/YTMP3Converter/releases) section and download ytmp3.zip
 2. Extract the .zip
 3. Run the application
    - Open the yt_gui.exe file
