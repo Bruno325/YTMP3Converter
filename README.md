@@ -25,7 +25,7 @@ That is why I wanted to create a fully local converter with no pop-up ads or dat
 2. Extract the .zip
 3. Run the application
    - Open the yt_gui.exe file
-   - Pause a YouTube link, choose a folder, and click **Download MP3**
+   - Paste a YouTube link, choose a folder, and click **Download MP3**
 
 ---
 
